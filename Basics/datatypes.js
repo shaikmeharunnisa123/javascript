@@ -6,7 +6,6 @@ console.log(3+3); //code readability should be high
 
 console.log("Mehar");
 
-let name="Mehar" //String
 let age=19;  //number
 let isLoggedIn=false; //boolean
 let state;
